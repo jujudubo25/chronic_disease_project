@@ -1,0 +1,1001 @@
+Age,BMI,Glucose,BloodPressure,Smoking,Hypertension,Diabetes,County,Race1
+35,27.5,95,120,0,0,0,Orleans County,Non-Hispanic Black
+52,31.2,140,145,1,1,1,Orleans County,Non-Hispanic White
+61,29.0,130,138,0,1,1,Jefferson County,Hispanic
+44,33.5,125,142,1,1,0,Jefferson County,Non-Hispanic Black
+70,28.0,150,150,0,1,1,Orleans County,Non-Hispanic White
+29,26.0,88,118,0,0,0,St. Tammany County,Non-Hispanic Asian
+48,34.8,135,155,1,1,1,St. Tammany County,Non-Hispanic Black
+56,30.1,128,135,0,1,1,East Baton Rouge County,Hispanic
+39,24.5,99,122,0,0,0,East Baton Rouge County,Other / Multi-racial
+63,32.0,145,160,1,1,1,Orleans County,Non-Hispanic White
+21,23.9,174,134,0,0,1,St. Tammany County,Hispanic
+72,19.1,104,143,1,0,0,Orleans County,Non-Hispanic Asian
+67,19.9,166,108,0,1,1,Orleans County,Non-Hispanic White
+23,32.7,102,102,1,1,1,St. Tammany County,Non-Hispanic Asian
+71,18.8,148,143,1,0,1,Orleans County,Non-Hispanic Asian
+75,34.9,181,168,1,1,1,Orleans County,Non-Hispanic Black
+64,36.0,194,133,0,1,1,East Baton Rouge County,Non-Hispanic White
+64,28.0,156,102,0,0,1,Orleans County,Hispanic
+32,26.9,198,107,1,1,0,East Baton Rouge County,Non-Hispanic Black
+27,39.8,183,148,1,0,0,Jefferson County,Non-Hispanic Asian
+30,18.5,160,134,1,1,0,Orleans County,Other / Multi-racial
+22,29.2,92,110,1,0,1,Orleans County,Other / Multi-racial
+62,32.0,77,141,1,1,0,St. Tammany County,Non-Hispanic Asian
+40,18.5,111,153,0,0,1,Jefferson County,Non-Hispanic White
+70,37.3,84,166,1,1,0,St. Tammany County,Non-Hispanic Asian
+41,20.8,156,166,0,0,1,East Baton Rouge County,Non-Hispanic White
+65,21.0,75,144,1,1,1,East Baton Rouge County,Non-Hispanic White
+28,29.5,105,143,0,1,0,St. Tammany County,Non-Hispanic White
+35,38.5,132,126,1,1,1,Orleans County,Other / Multi-racial
+23,39.0,199,125,0,0,1,Jefferson County,Non-Hispanic White
+56,25.0,157,170,0,0,1,East Baton Rouge County,Non-Hispanic Asian
+67,18.6,194,143,1,0,0,Orleans County,Other / Multi-racial
+56,39.3,157,174,0,0,1,East Baton Rouge County,Hispanic
+79,32.7,177,140,1,0,1,St. Tammany County,Non-Hispanic Black
+70,39.9,167,107,1,1,1,Jefferson County,Other / Multi-racial
+42,26.1,145,115,1,1,0,East Baton Rouge County,Non-Hispanic White
+55,26.5,97,159,1,0,1,St. Tammany County,Non-Hispanic Asian
+54,30.6,133,158,1,1,0,Jefferson County,Non-Hispanic White
+19,27.4,197,116,1,0,1,Jefferson County,Hispanic
+73,26.1,126,176,0,1,1,Orleans County,Hispanic
+64,26.5,86,132,1,0,1,St. Tammany County,Non-Hispanic Asian
+20,31.4,197,121,0,0,1,Jefferson County,Other / Multi-racial
+71,22.3,197,159,0,1,0,Orleans County,Non-Hispanic Asian
+57,30.0,141,124,0,1,1,East Baton Rouge County,Non-Hispanic White
+21,30.5,181,166,1,0,1,Jefferson County,Non-Hispanic Black
+77,22.7,131,104,0,0,0,East Baton Rouge County,Non-Hispanic White
+18,27.1,152,170,0,0,0,East Baton Rouge County,Hispanic
+77,22.1,98,136,1,0,0,St. Tammany County,Non-Hispanic Black
+47,22.9,126,165,1,1,0,East Baton Rouge County,Non-Hispanic White
+80,37.9,80,136,0,1,0,Jefferson County,Non-Hispanic White
+47,38.4,160,170,0,1,1,St. Tammany County,Hispanic
+31,26.6,82,113,0,1,0,Jefferson County,Non-Hispanic Asian
+29,27.2,191,117,0,0,0,St. Tammany County,Non-Hispanic White
+24,21.2,187,155,0,1,0,Orleans County,Non-Hispanic Black
+25,28.1,93,117,0,1,1,Jefferson County,Non-Hispanic Black
+33,35.3,157,118,0,0,1,St. Tammany County,Non-Hispanic Asian
+40,35.3,85,107,0,0,0,St. Tammany County,Non-Hispanic Black
+26,30.3,70,177,1,1,1,St. Tammany County,Non-Hispanic Black
+72,27.2,78,177,1,1,1,Orleans County,Hispanic
+50,34.7,145,110,1,0,1,East Baton Rouge County,Non-Hispanic White
+64,31.1,120,151,0,0,0,St. Tammany County,Non-Hispanic Asian
+67,28.6,111,149,0,1,0,Jefferson County,Non-Hispanic Black
+41,22.0,104,177,0,1,0,Orleans County,Hispanic
+21,38.1,162,116,1,1,0,St. Tammany County,Other / Multi-racial
+68,30.2,100,168,0,1,1,St. Tammany County,Non-Hispanic Asian
+79,23.2,93,114,0,1,1,St. Tammany County,Non-Hispanic Black
+70,37.9,169,100,1,0,0,Orleans County,Non-Hispanic Asian
+26,35.7,91,122,1,1,0,East Baton Rouge County,Hispanic
+22,37.2,101,172,1,1,0,Jefferson County,Hispanic
+37,31.1,156,102,0,1,1,Jefferson County,Non-Hispanic Asian
+31,28.9,178,108,0,0,0,Jefferson County,Non-Hispanic White
+46,30.7,118,151,1,1,0,Jefferson County,Non-Hispanic White
+46,18.9,149,103,0,0,0,Orleans County,Non-Hispanic White
+71,27.1,190,178,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+60,33.0,92,105,0,0,0,St. Tammany County,Hispanic
+50,27.3,137,136,1,0,0,Orleans County,Other / Multi-racial
+56,33.6,95,158,0,1,0,St. Tammany County,Hispanic
+69,34.6,165,136,1,0,0,Orleans County,Hispanic
+21,30.9,195,147,1,0,0,Orleans County,Non-Hispanic Black
+54,26.4,104,164,0,1,0,East Baton Rouge County,Hispanic
+38,38.6,176,134,1,1,0,Jefferson County,Non-Hispanic White
+64,33.7,83,166,0,1,0,Jefferson County,Non-Hispanic Black
+69,32.3,172,122,0,0,1,Orleans County,Non-Hispanic Asian
+27,24.1,199,156,0,0,1,East Baton Rouge County,Non-Hispanic Asian
+38,19.0,179,153,0,1,1,East Baton Rouge County,Non-Hispanic White
+25,18.8,160,146,1,0,1,St. Tammany County,Non-Hispanic Black
+20,22.1,184,125,1,1,0,St. Tammany County,Non-Hispanic Black
+35,39.0,161,169,1,0,1,Jefferson County,Non-Hispanic White
+25,30.3,72,176,1,1,1,East Baton Rouge County,Non-Hispanic White
+69,22.1,159,129,1,1,1,Orleans County,Non-Hispanic Asian
+22,25.9,166,113,0,1,0,Orleans County,Hispanic
+29,22.2,86,154,1,1,1,Orleans County,Non-Hispanic Asian
+21,20.1,146,164,1,1,1,St. Tammany County,Hispanic
+22,25.3,117,115,0,1,1,St. Tammany County,Non-Hispanic White
+70,22.5,143,140,1,0,1,East Baton Rouge County,Hispanic
+32,29.8,78,178,1,0,0,St. Tammany County,Non-Hispanic Black
+62,28.5,126,139,0,0,1,East Baton Rouge County,Hispanic
+48,31.8,188,134,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+80,20.2,152,148,0,0,0,Jefferson County,Non-Hispanic Asian
+68,29.2,139,177,0,1,0,Jefferson County,Non-Hispanic Asian
+69,34.2,91,174,1,0,1,East Baton Rouge County,Non-Hispanic Black
+28,25.6,102,117,1,1,0,Jefferson County,Non-Hispanic Asian
+35,31.6,120,137,0,0,1,Jefferson County,Other / Multi-racial
+46,18.6,110,142,0,1,0,Orleans County,Non-Hispanic Black
+20,25.6,91,122,1,1,0,Orleans County,Other / Multi-racial
+51,19.1,130,113,1,0,0,St. Tammany County,Non-Hispanic Black
+46,34.8,164,151,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+64,31.2,106,124,0,1,1,Jefferson County,Other / Multi-racial
+62,38.8,120,120,0,0,1,Orleans County,Non-Hispanic White
+37,31.8,74,163,1,0,0,East Baton Rouge County,Non-Hispanic White
+68,23.9,146,134,0,0,0,Jefferson County,Non-Hispanic White
+60,33.7,93,152,1,1,0,Jefferson County,Non-Hispanic Asian
+38,29.1,181,169,1,0,1,Orleans County,Non-Hispanic Black
+34,25.4,182,159,1,0,1,East Baton Rouge County,Hispanic
+41,36.7,129,145,1,1,0,Orleans County,Non-Hispanic White
+59,33.7,165,157,1,1,0,Jefferson County,Non-Hispanic Black
+29,32.3,155,126,1,0,0,East Baton Rouge County,Hispanic
+42,21.5,163,150,1,0,0,East Baton Rouge County,Non-Hispanic Black
+61,31.2,109,176,1,1,1,Orleans County,Non-Hispanic Asian
+39,28.0,83,130,0,1,0,St. Tammany County,Non-Hispanic Black
+49,22.0,110,130,0,0,1,East Baton Rouge County,Other / Multi-racial
+48,19.2,177,133,1,0,0,Jefferson County,Non-Hispanic Asian
+59,24.6,93,146,0,1,1,East Baton Rouge County,Other / Multi-racial
+65,28.6,80,107,0,0,1,East Baton Rouge County,Non-Hispanic Black
+24,29.4,80,179,1,0,0,Jefferson County,Non-Hispanic White
+62,39.1,88,165,1,1,1,Jefferson County,Hispanic
+69,26.6,120,166,0,0,0,Jefferson County,Hispanic
+35,36.9,143,117,1,1,0,Jefferson County,Non-Hispanic Black
+22,38.9,129,146,0,1,0,Orleans County,Hispanic
+57,34.7,80,179,1,1,0,Jefferson County,Non-Hispanic Black
+70,34.9,147,152,0,1,1,Jefferson County,Other / Multi-racial
+39,24.2,193,174,1,1,1,St. Tammany County,Non-Hispanic Black
+47,28.9,86,117,0,1,0,St. Tammany County,Non-Hispanic Asian
+61,28.8,124,126,1,0,0,Jefferson County,Non-Hispanic Black
+73,31.5,137,131,1,0,1,East Baton Rouge County,Non-Hispanic Black
+76,18.1,128,120,0,0,1,St. Tammany County,Hispanic
+31,32.8,171,171,0,1,1,Jefferson County,Other / Multi-racial
+45,21.8,127,145,0,0,1,St. Tammany County,Non-Hispanic Asian
+80,35.2,98,102,1,0,0,East Baton Rouge County,Non-Hispanic White
+28,33.7,94,116,1,0,1,Jefferson County,Non-Hispanic Black
+66,23.4,75,104,0,0,1,St. Tammany County,Other / Multi-racial
+26,33.2,197,161,0,0,1,Orleans County,Non-Hispanic Asian
+22,32.5,159,109,0,1,0,Jefferson County,Non-Hispanic Black
+32,23.4,91,134,1,0,0,Jefferson County,Non-Hispanic White
+61,23.7,162,114,0,1,0,Orleans County,Hispanic
+23,35.0,171,131,1,1,1,Jefferson County,Other / Multi-racial
+45,28.7,88,107,0,0,1,East Baton Rouge County,Non-Hispanic Black
+51,36.5,72,170,0,1,0,Jefferson County,Other / Multi-racial
+28,31.7,147,133,0,1,0,Orleans County,Hispanic
+72,29.0,137,152,1,1,0,Jefferson County,Non-Hispanic Asian
+60,21.0,149,168,1,1,1,Jefferson County,Non-Hispanic Black
+67,22.9,186,140,0,0,1,Jefferson County,Non-Hispanic Asian
+43,23.2,169,139,1,1,0,Orleans County,Non-Hispanic Asian
+61,20.8,192,154,0,1,0,St. Tammany County,Non-Hispanic Black
+69,23.5,95,178,1,1,0,St. Tammany County,Non-Hispanic Asian
+36,19.7,83,167,1,1,1,Orleans County,Hispanic
+73,36.6,145,159,0,1,0,Jefferson County,Non-Hispanic Black
+73,32.9,146,116,1,0,1,Orleans County,Non-Hispanic Asian
+40,36.1,177,157,0,0,1,Orleans County,Non-Hispanic Black
+46,27.6,145,139,1,0,0,East Baton Rouge County,Non-Hispanic Black
+18,36.8,163,137,0,1,0,Jefferson County,Non-Hispanic Asian
+71,21.7,107,115,0,0,0,Orleans County,Non-Hispanic White
+33,28.2,192,167,1,0,1,East Baton Rouge County,Non-Hispanic White
+19,36.6,135,127,1,1,0,Jefferson County,Non-Hispanic Black
+30,37.9,115,163,0,1,0,St. Tammany County,Other / Multi-racial
+49,35.3,187,136,0,0,0,East Baton Rouge County,Hispanic
+74,19.7,122,147,0,0,1,East Baton Rouge County,Non-Hispanic Asian
+20,34.8,192,158,0,0,1,Orleans County,Other / Multi-racial
+53,31.3,158,113,0,0,0,Jefferson County,Other / Multi-racial
+67,36.2,121,122,1,1,1,Jefferson County,Other / Multi-racial
+24,18.1,136,155,0,0,1,East Baton Rouge County,Non-Hispanic Asian
+80,36.0,159,172,1,1,1,East Baton Rouge County,Non-Hispanic Black
+79,34.3,116,111,1,0,1,Jefferson County,Non-Hispanic White
+62,36.7,71,152,0,0,0,St. Tammany County,Hispanic
+55,34.5,111,139,0,1,0,St. Tammany County,Hispanic
+36,26.6,86,169,0,1,0,St. Tammany County,Non-Hispanic White
+52,22.8,200,178,1,0,0,St. Tammany County,Hispanic
+74,25.4,176,134,0,0,0,East Baton Rouge County,Non-Hispanic Asian
+33,18.4,139,153,1,0,1,St. Tammany County,Other / Multi-racial
+63,18.7,193,117,1,1,1,St. Tammany County,Other / Multi-racial
+80,26.0,81,114,0,1,1,Jefferson County,Other / Multi-racial
+62,25.4,133,160,1,0,1,East Baton Rouge County,Other / Multi-racial
+40,37.0,178,145,1,1,0,Orleans County,Non-Hispanic Asian
+53,21.1,144,163,0,1,1,Orleans County,Non-Hispanic White
+29,39.1,161,118,1,0,0,St. Tammany County,Non-Hispanic White
+45,20.4,180,106,1,0,0,Orleans County,Non-Hispanic Black
+51,21.5,81,100,0,0,0,St. Tammany County,Non-Hispanic White
+52,34.0,130,161,1,1,0,St. Tammany County,Non-Hispanic White
+26,27.4,130,166,0,1,0,Orleans County,Non-Hispanic White
+53,34.1,92,144,0,1,1,East Baton Rouge County,Non-Hispanic White
+21,23.0,112,102,1,0,0,Orleans County,Hispanic
+56,19.2,189,169,1,1,1,Orleans County,Non-Hispanic Black
+44,28.7,130,114,1,1,0,East Baton Rouge County,Hispanic
+40,20.9,96,107,1,0,1,St. Tammany County,Other / Multi-racial
+41,25.0,195,172,0,1,0,Jefferson County,Non-Hispanic Asian
+44,34.2,166,157,1,1,1,East Baton Rouge County,Non-Hispanic Black
+54,28.3,166,110,1,1,0,Jefferson County,Non-Hispanic White
+77,22.7,157,173,1,0,1,Jefferson County,Non-Hispanic Asian
+77,25.3,70,157,0,1,0,East Baton Rouge County,Other / Multi-racial
+26,25.2,141,117,0,0,0,St. Tammany County,Hispanic
+51,38.5,167,163,1,0,0,St. Tammany County,Hispanic
+26,34.7,166,134,0,0,0,Jefferson County,Other / Multi-racial
+47,35.8,83,129,0,1,0,St. Tammany County,Non-Hispanic Asian
+25,24.4,72,170,0,0,1,St. Tammany County,Hispanic
+40,30.7,177,179,1,1,0,Orleans County,Non-Hispanic Asian
+36,19.1,134,153,0,1,1,East Baton Rouge County,Non-Hispanic Black
+67,21.1,157,139,0,1,1,St. Tammany County,Other / Multi-racial
+52,36.5,161,132,1,0,0,St. Tammany County,Non-Hispanic White
+29,35.6,186,105,0,0,0,Jefferson County,Non-Hispanic Black
+32,33.7,111,112,0,0,0,Jefferson County,Non-Hispanic Black
+60,20.5,126,178,0,1,0,Orleans County,Non-Hispanic White
+48,32.0,131,111,1,1,1,St. Tammany County,Other / Multi-racial
+20,19.3,74,164,1,1,1,Orleans County,Non-Hispanic Asian
+62,31.2,153,148,0,1,1,Jefferson County,Non-Hispanic Asian
+34,30.1,102,103,1,0,0,East Baton Rouge County,Non-Hispanic White
+48,34.4,186,165,0,1,1,St. Tammany County,Other / Multi-racial
+70,36.9,162,142,1,1,1,St. Tammany County,Other / Multi-racial
+35,37.1,167,125,0,0,0,St. Tammany County,Non-Hispanic White
+67,31.5,192,135,0,1,1,Orleans County,Hispanic
+57,39.5,110,168,1,1,0,East Baton Rouge County,Hispanic
+80,19.4,160,118,1,0,0,East Baton Rouge County,Non-Hispanic White
+51,31.7,139,120,0,0,1,East Baton Rouge County,Non-Hispanic White
+62,25.9,74,100,1,1,1,Orleans County,Other / Multi-racial
+46,31.2,153,130,1,0,1,East Baton Rouge County,Non-Hispanic Asian
+80,34.2,137,122,0,1,1,St. Tammany County,Other / Multi-racial
+62,39.4,142,128,1,0,0,East Baton Rouge County,Non-Hispanic White
+78,24.6,84,174,1,0,1,Orleans County,Non-Hispanic Black
+80,28.4,88,109,0,1,1,East Baton Rouge County,Non-Hispanic White
+53,22.5,187,162,1,0,1,St. Tammany County,Non-Hispanic Asian
+48,19.6,170,161,1,0,0,East Baton Rouge County,Other / Multi-racial
+47,29.4,146,100,1,1,1,Orleans County,Hispanic
+42,19.6,136,104,0,0,0,St. Tammany County,Non-Hispanic Black
+30,29.7,95,118,0,0,1,Orleans County,Non-Hispanic Asian
+38,37.2,100,147,1,0,0,Orleans County,Non-Hispanic Black
+75,33.8,156,121,0,1,0,Jefferson County,Hispanic
+22,24.5,93,113,0,1,1,East Baton Rouge County,Other / Multi-racial
+45,39.8,120,110,1,0,0,Jefferson County,Hispanic
+22,21.1,80,154,1,1,0,East Baton Rouge County,Hispanic
+41,26.8,156,174,0,1,0,East Baton Rouge County,Hispanic
+42,34.8,155,107,1,1,1,St. Tammany County,Non-Hispanic Asian
+68,38.9,111,131,0,1,0,Jefferson County,Other / Multi-racial
+33,21.7,157,175,0,1,1,St. Tammany County,Non-Hispanic Asian
+35,23.0,184,143,1,0,1,Orleans County,Other / Multi-racial
+73,23.0,130,106,0,0,0,East Baton Rouge County,Non-Hispanic White
+64,36.6,193,101,1,1,0,St. Tammany County,Other / Multi-racial
+78,19.1,154,145,0,1,0,East Baton Rouge County,Hispanic
+58,24.1,125,163,0,1,0,Jefferson County,Hispanic
+25,20.4,193,167,1,0,0,Jefferson County,Non-Hispanic Asian
+56,34.8,73,174,0,0,1,East Baton Rouge County,Hispanic
+19,21.4,89,138,0,1,1,Jefferson County,Non-Hispanic Asian
+69,33.0,106,131,1,0,0,St. Tammany County,Other / Multi-racial
+79,19.5,191,132,0,0,0,Jefferson County,Non-Hispanic Asian
+65,21.5,172,134,0,1,0,St. Tammany County,Other / Multi-racial
+36,35.4,105,147,0,1,0,St. Tammany County,Non-Hispanic Black
+22,36.4,160,127,0,0,1,Orleans County,Other / Multi-racial
+67,25.4,81,154,0,1,0,Jefferson County,Non-Hispanic Asian
+64,32.2,127,112,1,1,1,Jefferson County,Other / Multi-racial
+34,35.7,140,120,1,0,0,East Baton Rouge County,Non-Hispanic White
+76,33.6,122,160,0,0,1,St. Tammany County,Non-Hispanic Asian
+30,22.1,81,117,0,1,0,Orleans County,Other / Multi-racial
+74,32.3,103,126,0,0,1,Jefferson County,Non-Hispanic Black
+57,37.6,89,165,1,0,0,Jefferson County,Non-Hispanic Asian
+62,39.6,98,177,1,0,0,St. Tammany County,Non-Hispanic Black
+70,22.9,184,153,1,0,0,Orleans County,Non-Hispanic Asian
+62,26.1,168,113,0,1,0,East Baton Rouge County,Non-Hispanic Black
+74,23.1,109,115,0,1,1,St. Tammany County,Non-Hispanic White
+25,30.6,186,112,0,1,1,Jefferson County,Non-Hispanic Black
+55,38.8,142,157,0,1,0,Orleans County,Non-Hispanic Asian
+26,33.9,171,161,0,1,0,East Baton Rouge County,Non-Hispanic White
+78,22.8,173,107,1,0,0,Jefferson County,Non-Hispanic Black
+63,31.0,191,116,1,0,0,Jefferson County,Hispanic
+60,23.2,200,138,0,0,0,Orleans County,Non-Hispanic Black
+31,21.3,89,106,1,0,0,East Baton Rouge County,Non-Hispanic Black
+57,28.8,177,107,0,0,0,St. Tammany County,Hispanic
+72,34.0,105,120,0,1,0,St. Tammany County,Non-Hispanic Black
+78,30.2,183,151,1,1,0,Orleans County,Other / Multi-racial
+50,29.1,131,148,1,1,0,East Baton Rouge County,Hispanic
+73,36.5,84,127,1,1,1,St. Tammany County,Other / Multi-racial
+48,18.1,78,104,0,0,1,St. Tammany County,Non-Hispanic White
+55,21.0,89,118,1,1,0,St. Tammany County,Non-Hispanic Black
+48,34.4,145,156,0,1,1,East Baton Rouge County,Non-Hispanic Black
+22,39.1,172,112,0,1,1,Orleans County,Other / Multi-racial
+77,36.6,175,135,1,0,1,East Baton Rouge County,Non-Hispanic Black
+27,28.4,93,105,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+77,31.2,187,140,1,0,0,Jefferson County,Non-Hispanic White
+21,19.4,151,125,0,1,1,St. Tammany County,Non-Hispanic Asian
+73,26.0,172,167,1,0,0,Jefferson County,Other / Multi-racial
+28,20.8,184,171,0,0,0,St. Tammany County,Other / Multi-racial
+43,32.4,92,101,0,1,1,Orleans County,Other / Multi-racial
+67,31.4,176,134,0,0,1,Jefferson County,Non-Hispanic Asian
+21,29.2,165,103,1,0,1,Jefferson County,Non-Hispanic White
+77,35.1,178,143,0,0,1,St. Tammany County,Non-Hispanic Asian
+18,24.7,149,163,0,0,0,Orleans County,Non-Hispanic White
+80,39.4,162,111,1,1,0,Jefferson County,Non-Hispanic Asian
+24,20.6,152,114,1,0,1,Jefferson County,Non-Hispanic Black
+73,29.1,109,177,0,1,0,Jefferson County,Non-Hispanic White
+67,33.8,79,114,0,1,0,Jefferson County,Hispanic
+52,24.6,145,100,0,1,0,Jefferson County,Hispanic
+44,18.8,149,171,0,0,1,St. Tammany County,Non-Hispanic Asian
+62,33.5,87,115,1,1,0,Jefferson County,Non-Hispanic Asian
+29,31.6,75,106,1,0,1,St. Tammany County,Non-Hispanic White
+77,28.1,191,156,1,1,0,East Baton Rouge County,Non-Hispanic Black
+63,20.0,178,136,0,1,1,Jefferson County,Hispanic
+39,24.6,107,150,1,0,0,Orleans County,Non-Hispanic White
+44,34.0,73,169,0,1,0,East Baton Rouge County,Non-Hispanic Black
+52,37.5,84,160,0,0,0,Orleans County,Non-Hispanic Asian
+18,23.1,137,151,1,1,1,Jefferson County,Other / Multi-racial
+43,33.4,177,152,1,1,1,Orleans County,Non-Hispanic Black
+42,21.8,76,134,1,0,1,St. Tammany County,Other / Multi-racial
+55,39.6,76,105,0,0,0,Orleans County,Hispanic
+40,22.2,194,133,0,1,0,East Baton Rouge County,Other / Multi-racial
+24,35.5,195,121,0,0,0,Jefferson County,Non-Hispanic Black
+44,31.7,175,176,1,0,0,East Baton Rouge County,Other / Multi-racial
+35,39.7,85,146,1,0,1,East Baton Rouge County,Hispanic
+27,20.8,73,161,1,1,1,St. Tammany County,Non-Hispanic Asian
+47,18.9,79,129,0,0,1,Jefferson County,Hispanic
+44,32.8,108,169,0,1,1,St. Tammany County,Non-Hispanic Black
+68,19.2,175,138,1,1,1,Orleans County,Non-Hispanic Black
+69,32.8,102,117,0,1,1,St. Tammany County,Non-Hispanic Black
+29,39.2,80,149,1,1,0,Jefferson County,Non-Hispanic Black
+56,22.4,164,137,0,0,0,Orleans County,Non-Hispanic Black
+29,26.4,194,121,1,0,1,St. Tammany County,Non-Hispanic White
+62,31.1,184,105,1,0,1,St. Tammany County,Hispanic
+64,30.9,121,160,1,0,0,East Baton Rouge County,Non-Hispanic Black
+56,32.5,160,119,1,1,1,St. Tammany County,Non-Hispanic Black
+52,24.7,88,159,1,0,1,St. Tammany County,Non-Hispanic White
+29,24.8,142,152,0,1,0,Jefferson County,Other / Multi-racial
+32,22.1,86,115,1,0,1,Jefferson County,Non-Hispanic White
+20,27.4,114,143,0,1,1,Orleans County,Non-Hispanic Asian
+59,39.2,177,137,1,1,1,East Baton Rouge County,Non-Hispanic Black
+48,37.9,70,169,0,0,1,Orleans County,Non-Hispanic White
+69,31.0,114,129,1,1,1,Orleans County,Other / Multi-racial
+59,30.7,197,154,0,1,1,Jefferson County,Other / Multi-racial
+46,36.4,89,171,0,1,1,St. Tammany County,Non-Hispanic White
+30,31.1,118,162,0,0,1,St. Tammany County,Hispanic
+47,30.1,141,128,1,0,1,East Baton Rouge County,Non-Hispanic White
+78,22.2,200,143,1,0,1,St. Tammany County,Hispanic
+33,36.1,148,148,0,1,0,St. Tammany County,Other / Multi-racial
+51,28.4,73,177,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+22,38.1,133,102,1,0,0,East Baton Rouge County,Non-Hispanic White
+21,39.3,122,140,0,0,1,St. Tammany County,Non-Hispanic Black
+70,25.4,166,114,0,1,0,Orleans County,Non-Hispanic Black
+46,22.7,112,179,0,1,0,St. Tammany County,Non-Hispanic Black
+18,21.3,76,163,1,0,0,Orleans County,Non-Hispanic Asian
+39,31.9,96,153,0,1,1,Orleans County,Non-Hispanic White
+30,20.3,144,175,0,0,0,Jefferson County,Hispanic
+24,38.2,128,168,0,1,1,Orleans County,Non-Hispanic White
+56,29.1,73,121,1,0,1,Jefferson County,Non-Hispanic Asian
+60,19.5,197,156,0,0,1,St. Tammany County,Hispanic
+59,18.4,156,133,0,0,1,East Baton Rouge County,Non-Hispanic White
+59,33.6,191,178,0,0,1,St. Tammany County,Hispanic
+49,27.4,123,123,1,0,1,Orleans County,Non-Hispanic Black
+36,23.2,110,130,1,0,1,St. Tammany County,Non-Hispanic White
+34,22.8,135,159,0,0,1,Jefferson County,Hispanic
+66,36.9,155,135,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+28,24.7,165,103,1,1,0,St. Tammany County,Non-Hispanic White
+36,34.1,185,118,0,0,1,Orleans County,Non-Hispanic Black
+75,31.1,107,160,0,0,1,East Baton Rouge County,Other / Multi-racial
+69,31.2,196,140,0,0,0,St. Tammany County,Non-Hispanic Black
+49,34.4,187,103,0,1,0,East Baton Rouge County,Hispanic
+45,29.2,77,154,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+22,30.2,147,177,1,0,0,Orleans County,Other / Multi-racial
+52,24.5,160,177,1,1,0,East Baton Rouge County,Other / Multi-racial
+40,18.5,115,138,1,1,0,East Baton Rouge County,Non-Hispanic White
+40,33.0,118,170,1,1,1,East Baton Rouge County,Non-Hispanic White
+52,36.0,102,113,0,0,1,East Baton Rouge County,Non-Hispanic Asian
+46,33.6,174,160,0,0,1,Jefferson County,Non-Hispanic Black
+77,22.8,182,149,1,1,1,Orleans County,Hispanic
+61,38.3,91,104,1,1,1,East Baton Rouge County,Non-Hispanic White
+32,30.7,153,107,1,1,1,St. Tammany County,Non-Hispanic Black
+66,36.1,142,120,0,0,0,St. Tammany County,Non-Hispanic White
+64,22.4,77,151,1,0,1,Jefferson County,Non-Hispanic White
+27,37.1,181,131,0,0,1,St. Tammany County,Other / Multi-racial
+59,38.1,72,176,1,1,1,Orleans County,Non-Hispanic White
+27,38.0,97,130,1,1,0,Jefferson County,Hispanic
+23,36.8,115,104,0,1,0,Orleans County,Non-Hispanic White
+70,29.6,104,147,0,0,1,Orleans County,Other / Multi-racial
+42,31.8,175,117,0,0,0,East Baton Rouge County,Non-Hispanic Black
+45,35.9,95,156,1,0,0,Jefferson County,Non-Hispanic Black
+20,26.4,181,130,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+43,35.6,178,131,0,0,0,St. Tammany County,Non-Hispanic White
+24,32.2,86,103,1,1,0,Jefferson County,Non-Hispanic Asian
+62,27.3,122,170,0,1,1,St. Tammany County,Non-Hispanic White
+18,25.7,137,133,0,0,0,St. Tammany County,Hispanic
+37,20.1,76,128,1,1,1,St. Tammany County,Non-Hispanic White
+66,29.7,182,152,1,0,0,Orleans County,Other / Multi-racial
+54,23.4,100,110,0,1,1,East Baton Rouge County,Non-Hispanic White
+36,32.0,136,147,0,0,1,Jefferson County,Non-Hispanic Black
+41,27.6,193,157,1,1,1,East Baton Rouge County,Hispanic
+58,26.9,178,137,1,1,1,Jefferson County,Non-Hispanic Asian
+26,38.4,105,127,1,0,1,St. Tammany County,Non-Hispanic Black
+72,40.0,179,112,1,0,1,St. Tammany County,Non-Hispanic Asian
+37,38.9,181,104,1,1,0,Jefferson County,Hispanic
+67,33.3,119,174,1,1,1,St. Tammany County,Hispanic
+72,20.8,101,110,0,0,0,Jefferson County,Non-Hispanic White
+60,20.3,190,107,0,0,0,St. Tammany County,Non-Hispanic Black
+46,32.1,102,150,0,0,0,Orleans County,Other / Multi-racial
+46,25.4,142,172,0,1,1,St. Tammany County,Hispanic
+73,30.2,197,121,1,1,0,Orleans County,Other / Multi-racial
+66,23.6,149,160,0,0,0,St. Tammany County,Non-Hispanic White
+53,26.4,169,127,0,0,1,East Baton Rouge County,Non-Hispanic White
+29,38.5,181,104,1,1,1,St. Tammany County,Other / Multi-racial
+67,31.0,184,177,0,1,0,Orleans County,Non-Hispanic White
+63,33.5,126,165,1,0,1,East Baton Rouge County,Non-Hispanic Black
+21,21.6,189,175,1,1,1,St. Tammany County,Non-Hispanic Asian
+42,18.9,159,134,1,0,0,St. Tammany County,Non-Hispanic Black
+22,29.8,75,156,1,0,0,Orleans County,Non-Hispanic White
+65,20.8,131,168,1,1,1,St. Tammany County,Non-Hispanic Asian
+63,21.9,152,106,0,0,0,East Baton Rouge County,Non-Hispanic Black
+51,18.1,174,143,1,0,0,Orleans County,Non-Hispanic White
+41,22.0,177,126,1,0,1,St. Tammany County,Non-Hispanic White
+45,33.3,162,120,0,1,1,Orleans County,Non-Hispanic White
+32,27.9,184,100,1,0,1,St. Tammany County,Hispanic
+68,30.1,117,124,1,1,0,East Baton Rouge County,Non-Hispanic Black
+40,18.7,147,124,0,1,1,Orleans County,Hispanic
+75,25.5,170,112,0,0,1,Orleans County,Other / Multi-racial
+52,24.4,89,137,0,1,0,East Baton Rouge County,Hispanic
+32,32.4,85,106,1,0,0,Jefferson County,Non-Hispanic Asian
+73,29.3,190,126,1,1,1,St. Tammany County,Non-Hispanic White
+76,37.3,91,121,0,1,1,St. Tammany County,Hispanic
+52,39.3,70,105,1,0,1,East Baton Rouge County,Other / Multi-racial
+19,22.4,70,133,0,0,0,Jefferson County,Non-Hispanic White
+42,23.6,130,173,0,1,1,Orleans County,Non-Hispanic White
+43,18.0,165,118,0,1,0,St. Tammany County,Other / Multi-racial
+29,33.0,82,150,0,1,1,East Baton Rouge County,Non-Hispanic White
+49,26.6,127,125,0,1,0,Orleans County,Non-Hispanic White
+35,25.0,136,178,0,1,0,Jefferson County,Non-Hispanic Black
+23,19.3,157,150,1,1,0,East Baton Rouge County,Hispanic
+40,23.9,107,100,0,1,1,St. Tammany County,Hispanic
+74,26.6,175,109,0,1,0,Jefferson County,Hispanic
+49,37.2,104,143,0,0,0,Jefferson County,Other / Multi-racial
+64,37.8,87,136,0,1,0,East Baton Rouge County,Non-Hispanic Black
+29,20.7,141,164,0,0,1,Orleans County,Non-Hispanic Asian
+78,18.5,109,104,0,0,1,St. Tammany County,Hispanic
+30,28.1,157,118,0,1,1,Jefferson County,Other / Multi-racial
+33,22.9,102,159,0,1,0,St. Tammany County,Non-Hispanic White
+64,38.9,136,180,1,0,1,St. Tammany County,Non-Hispanic Black
+31,19.5,160,126,1,0,1,Jefferson County,Hispanic
+37,38.5,114,171,0,1,1,St. Tammany County,Non-Hispanic Asian
+36,21.2,182,143,1,0,0,Orleans County,Hispanic
+75,38.3,115,168,1,1,0,Jefferson County,Non-Hispanic Asian
+26,37.7,84,156,1,1,1,Orleans County,Other / Multi-racial
+43,33.9,176,112,1,0,0,Jefferson County,Non-Hispanic White
+51,19.2,195,136,0,1,1,St. Tammany County,Hispanic
+39,34.6,158,158,0,1,1,St. Tammany County,Non-Hispanic Asian
+79,39.4,195,129,1,1,0,East Baton Rouge County,Hispanic
+25,31.0,79,107,1,1,1,East Baton Rouge County,Non-Hispanic Black
+47,29.8,112,162,0,0,0,St. Tammany County,Other / Multi-racial
+64,27.8,186,132,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+72,21.2,125,136,1,0,1,East Baton Rouge County,Non-Hispanic Black
+27,39.1,156,146,1,0,1,St. Tammany County,Other / Multi-racial
+61,23.7,140,161,0,0,0,St. Tammany County,Other / Multi-racial
+63,38.5,78,137,0,0,0,Orleans County,Non-Hispanic Black
+73,19.9,114,175,1,1,0,East Baton Rouge County,Other / Multi-racial
+48,32.9,90,168,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+45,35.4,194,174,1,1,1,St. Tammany County,Non-Hispanic White
+74,24.9,80,159,0,0,1,East Baton Rouge County,Non-Hispanic White
+28,19.3,95,172,1,0,0,Orleans County,Non-Hispanic Asian
+35,27.3,171,115,0,0,1,Jefferson County,Other / Multi-racial
+27,19.5,148,124,1,1,1,St. Tammany County,Non-Hispanic Black
+24,26.4,163,149,1,0,0,Jefferson County,Non-Hispanic White
+68,22.4,175,132,0,1,1,East Baton Rouge County,Hispanic
+79,36.3,141,133,1,0,0,Jefferson County,Non-Hispanic Black
+28,28.2,123,175,1,1,1,Jefferson County,Non-Hispanic Black
+33,38.7,153,175,1,0,0,St. Tammany County,Non-Hispanic White
+52,18.0,139,176,0,0,0,Orleans County,Non-Hispanic White
+53,20.4,190,159,1,1,1,St. Tammany County,Non-Hispanic White
+71,27.8,164,124,0,1,0,East Baton Rouge County,Hispanic
+75,34.8,139,116,0,0,1,Orleans County,Non-Hispanic Asian
+77,18.3,184,100,0,1,0,St. Tammany County,Non-Hispanic Black
+63,33.4,184,135,0,1,1,Orleans County,Non-Hispanic Asian
+64,32.6,191,169,1,1,0,East Baton Rouge County,Other / Multi-racial
+37,39.9,90,159,0,1,0,Jefferson County,Non-Hispanic Black
+35,26.9,200,154,1,0,0,Jefferson County,Other / Multi-racial
+71,35.3,157,131,1,0,1,Jefferson County,Non-Hispanic Asian
+69,26.8,166,124,1,1,1,St. Tammany County,Other / Multi-racial
+48,36.1,106,115,0,0,0,Jefferson County,Non-Hispanic Black
+19,37.1,166,104,1,0,0,Orleans County,Non-Hispanic Black
+22,34.7,165,165,1,1,1,Jefferson County,Hispanic
+79,32.9,99,141,0,1,1,Orleans County,Non-Hispanic Black
+79,22.3,190,174,1,1,0,Jefferson County,Non-Hispanic Black
+66,18.3,198,172,0,0,0,Jefferson County,Non-Hispanic Black
+35,19.8,126,163,0,1,0,St. Tammany County,Non-Hispanic Asian
+42,20.2,161,171,1,0,0,Jefferson County,Non-Hispanic Black
+45,21.6,111,177,1,0,1,East Baton Rouge County,Other / Multi-racial
+26,35.9,84,135,0,1,1,East Baton Rouge County,Hispanic
+38,18.0,156,120,0,1,0,East Baton Rouge County,Non-Hispanic Black
+37,37.8,87,129,0,1,0,Orleans County,Other / Multi-racial
+47,36.8,192,119,0,0,1,East Baton Rouge County,Other / Multi-racial
+26,22.3,191,125,0,1,1,Jefferson County,Non-Hispanic White
+40,37.6,110,177,0,1,0,St. Tammany County,Hispanic
+47,23.3,141,101,1,0,1,East Baton Rouge County,Non-Hispanic White
+44,39.0,169,177,0,0,1,Jefferson County,Hispanic
+68,36.6,128,137,1,0,0,Orleans County,Non-Hispanic Asian
+38,21.2,87,124,0,0,0,St. Tammany County,Non-Hispanic Asian
+27,26.0,170,141,1,1,0,Jefferson County,Other / Multi-racial
+45,28.4,139,165,1,0,1,East Baton Rouge County,Other / Multi-racial
+49,29.4,151,154,0,1,1,Jefferson County,Non-Hispanic Black
+42,27.5,170,177,0,1,1,East Baton Rouge County,Non-Hispanic White
+49,36.0,123,123,0,1,1,Jefferson County,Non-Hispanic Asian
+55,22.2,120,123,0,0,0,St. Tammany County,Non-Hispanic Black
+59,30.4,197,118,0,1,0,Orleans County,Hispanic
+56,20.4,166,107,1,1,1,Orleans County,Non-Hispanic White
+48,36.8,194,161,1,0,0,Jefferson County,Hispanic
+19,18.2,127,163,1,1,0,St. Tammany County,Non-Hispanic White
+37,26.5,147,165,0,0,1,St. Tammany County,Hispanic
+80,28.5,162,161,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+34,30.6,163,113,1,0,1,Orleans County,Other / Multi-racial
+31,23.2,122,136,0,0,0,St. Tammany County,Non-Hispanic Asian
+44,33.9,141,165,1,0,1,Jefferson County,Non-Hispanic Black
+64,29.3,81,129,1,1,0,Orleans County,Non-Hispanic White
+76,36.0,200,137,0,0,0,Jefferson County,Non-Hispanic White
+40,24.0,126,180,0,1,1,Orleans County,Hispanic
+37,36.2,103,119,1,0,1,Orleans County,Other / Multi-racial
+20,36.1,180,114,1,1,0,St. Tammany County,Non-Hispanic Asian
+26,18.1,142,107,1,1,1,Jefferson County,Hispanic
+49,33.1,120,175,1,0,0,Jefferson County,Non-Hispanic Asian
+69,37.1,93,116,0,0,0,Jefferson County,Non-Hispanic Black
+43,22.0,83,180,0,0,1,St. Tammany County,Non-Hispanic White
+67,33.5,104,131,0,0,0,Orleans County,Non-Hispanic Asian
+39,39.7,147,103,0,0,0,East Baton Rouge County,Other / Multi-racial
+51,31.2,134,104,1,0,0,East Baton Rouge County,Hispanic
+51,23.5,145,173,0,1,0,Jefferson County,Hispanic
+59,36.6,146,133,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+48,29.0,122,175,0,1,1,Orleans County,Non-Hispanic Asian
+58,35.6,163,176,1,1,1,St. Tammany County,Other / Multi-racial
+69,21.1,189,101,0,0,0,East Baton Rouge County,Non-Hispanic Black
+68,24.3,76,106,1,0,0,Jefferson County,Non-Hispanic Asian
+34,22.1,151,101,0,0,0,St. Tammany County,Hispanic
+59,30.4,194,179,0,1,1,Orleans County,Hispanic
+28,38.9,158,103,1,0,1,Jefferson County,Non-Hispanic White
+34,25.9,110,169,1,1,0,Jefferson County,Hispanic
+31,24.1,94,113,0,1,1,Orleans County,Other / Multi-racial
+77,24.3,147,110,1,1,1,St. Tammany County,Non-Hispanic Black
+18,36.2,97,154,1,0,1,St. Tammany County,Hispanic
+48,38.0,95,107,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+58,24.8,124,102,0,1,0,East Baton Rouge County,Non-Hispanic Black
+42,35.8,136,134,1,0,0,St. Tammany County,Non-Hispanic White
+23,26.3,110,122,0,1,0,Orleans County,Hispanic
+76,35.3,112,123,0,0,1,East Baton Rouge County,Other / Multi-racial
+59,29.5,199,148,1,0,0,Jefferson County,Non-Hispanic White
+55,29.7,75,154,0,1,1,Jefferson County,Hispanic
+61,26.3,142,179,0,0,1,East Baton Rouge County,Non-Hispanic Black
+74,33.7,130,123,0,0,0,Jefferson County,Non-Hispanic Black
+19,35.0,91,160,1,0,0,Jefferson County,Hispanic
+31,19.0,105,105,0,0,0,East Baton Rouge County,Non-Hispanic Asian
+67,35.3,125,180,1,1,0,Orleans County,Non-Hispanic White
+61,31.8,120,149,0,0,1,Jefferson County,Hispanic
+74,30.7,122,142,1,1,1,Jefferson County,Non-Hispanic White
+45,27.0,110,162,0,0,0,Orleans County,Non-Hispanic Asian
+60,20.7,156,150,1,1,0,Jefferson County,Hispanic
+78,20.9,126,137,1,0,0,St. Tammany County,Non-Hispanic White
+50,23.8,90,142,0,1,1,Jefferson County,Hispanic
+21,26.6,111,102,1,1,0,Orleans County,Non-Hispanic Asian
+80,25.5,84,130,0,0,1,Jefferson County,Hispanic
+61,31.9,156,150,1,1,1,East Baton Rouge County,Non-Hispanic Black
+49,30.7,100,179,1,1,0,Orleans County,Hispanic
+36,39.6,156,149,1,1,0,St. Tammany County,Non-Hispanic Asian
+78,29.5,192,102,0,0,0,East Baton Rouge County,Non-Hispanic Black
+57,29.4,122,108,1,1,0,Orleans County,Non-Hispanic Black
+31,19.0,151,180,1,1,1,Orleans County,Non-Hispanic Asian
+75,24.1,175,149,0,0,0,Orleans County,Hispanic
+62,18.8,131,180,1,1,0,East Baton Rouge County,Non-Hispanic White
+41,39.1,77,146,1,0,1,St. Tammany County,Non-Hispanic Asian
+80,39.9,143,142,1,0,1,Jefferson County,Non-Hispanic Black
+66,31.5,124,121,0,1,1,Jefferson County,Non-Hispanic White
+18,19.7,155,163,0,0,1,St. Tammany County,Non-Hispanic White
+58,20.1,168,149,1,0,1,Orleans County,Non-Hispanic Asian
+39,34.2,88,130,1,0,0,East Baton Rouge County,Other / Multi-racial
+49,19.3,189,145,1,0,1,Jefferson County,Other / Multi-racial
+27,27.1,99,177,0,0,1,St. Tammany County,Non-Hispanic White
+33,21.4,156,105,0,1,0,Jefferson County,Non-Hispanic Asian
+34,36.2,194,138,1,1,1,East Baton Rouge County,Hispanic
+56,39.3,72,129,1,0,0,Jefferson County,Non-Hispanic Black
+31,27.2,82,114,0,1,1,East Baton Rouge County,Other / Multi-racial
+45,23.8,122,179,0,0,1,East Baton Rouge County,Non-Hispanic White
+34,21.6,160,116,0,1,0,St. Tammany County,Hispanic
+46,31.8,170,135,0,1,0,East Baton Rouge County,Hispanic
+64,30.7,91,162,0,0,1,Orleans County,Non-Hispanic White
+36,39.7,109,126,1,0,0,Orleans County,Non-Hispanic Asian
+32,34.9,96,113,1,0,1,Orleans County,Non-Hispanic Black
+38,26.4,150,116,1,1,1,Jefferson County,Non-Hispanic Asian
+48,35.9,167,109,0,0,1,Jefferson County,Non-Hispanic White
+60,19.0,128,119,1,0,0,Jefferson County,Hispanic
+18,35.8,123,167,0,0,0,St. Tammany County,Non-Hispanic White
+63,36.6,71,149,1,1,0,Jefferson County,Non-Hispanic White
+22,32.3,150,117,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+19,34.3,162,131,0,0,0,Jefferson County,Hispanic
+74,29.7,199,145,0,0,0,Jefferson County,Non-Hispanic Asian
+46,20.7,89,145,0,0,1,Orleans County,Other / Multi-racial
+52,32.5,135,131,0,1,1,St. Tammany County,Non-Hispanic Black
+78,32.1,198,154,0,1,0,Jefferson County,Non-Hispanic White
+35,28.3,109,157,1,0,0,East Baton Rouge County,Other / Multi-racial
+58,38.4,139,173,0,0,0,Jefferson County,Non-Hispanic White
+64,32.7,131,128,1,0,1,St. Tammany County,Hispanic
+52,39.4,71,102,1,1,1,Jefferson County,Other / Multi-racial
+36,39.1,140,173,0,1,0,East Baton Rouge County,Non-Hispanic Black
+25,20.1,95,166,0,0,0,Orleans County,Non-Hispanic Black
+22,26.1,129,135,1,0,1,Orleans County,Other / Multi-racial
+68,21.9,194,141,0,1,0,Jefferson County,Hispanic
+56,31.0,189,142,0,0,1,Jefferson County,Hispanic
+70,23.9,171,159,0,1,1,Orleans County,Other / Multi-racial
+55,19.5,148,165,0,0,1,St. Tammany County,Other / Multi-racial
+69,30.9,91,131,0,1,0,Jefferson County,Non-Hispanic White
+68,18.4,176,138,1,0,0,Orleans County,Other / Multi-racial
+77,30.6,181,135,1,1,0,St. Tammany County,Hispanic
+32,24.4,89,156,0,0,0,East Baton Rouge County,Other / Multi-racial
+20,28.4,70,150,1,1,1,St. Tammany County,Non-Hispanic Black
+70,18.1,70,177,1,0,1,East Baton Rouge County,Hispanic
+38,25.8,88,162,1,1,1,Jefferson County,Hispanic
+31,24.6,181,179,0,1,0,Orleans County,Non-Hispanic Asian
+68,36.2,77,136,1,1,1,Orleans County,Non-Hispanic Asian
+63,38.9,124,176,1,0,0,Jefferson County,Non-Hispanic Black
+64,23.6,123,153,0,0,0,St. Tammany County,Hispanic
+31,35.8,199,135,1,0,1,Jefferson County,Hispanic
+74,37.3,183,128,1,0,0,Jefferson County,Hispanic
+74,37.4,197,117,1,0,0,Jefferson County,Hispanic
+31,28.0,155,121,1,1,1,East Baton Rouge County,Non-Hispanic White
+75,30.7,128,153,0,1,0,East Baton Rouge County,Hispanic
+44,35.9,80,170,1,0,0,St. Tammany County,Hispanic
+27,38.4,70,164,1,1,0,Jefferson County,Hispanic
+18,32.0,104,101,0,1,1,Orleans County,Other / Multi-racial
+68,25.3,135,122,0,1,0,East Baton Rouge County,Non-Hispanic Black
+78,33.3,168,176,1,0,0,Jefferson County,Non-Hispanic Black
+65,18.7,153,161,1,1,1,Orleans County,Non-Hispanic Black
+49,35.8,96,132,1,0,1,St. Tammany County,Other / Multi-racial
+38,26.8,169,162,1,0,1,Jefferson County,Non-Hispanic White
+56,27.8,161,156,1,0,0,St. Tammany County,Non-Hispanic Asian
+25,33.6,151,140,0,0,1,St. Tammany County,Other / Multi-racial
+25,19.9,81,116,0,1,1,East Baton Rouge County,Non-Hispanic White
+68,38.2,150,175,0,0,0,Jefferson County,Non-Hispanic White
+19,31.9,117,100,1,1,0,East Baton Rouge County,Hispanic
+54,31.0,82,173,1,1,1,Orleans County,Non-Hispanic White
+46,32.9,122,143,0,0,1,Orleans County,Non-Hispanic Black
+41,25.1,142,140,0,0,0,East Baton Rouge County,Non-Hispanic White
+62,35.3,134,113,1,0,1,Jefferson County,Non-Hispanic White
+56,20.3,133,165,1,1,1,Orleans County,Non-Hispanic White
+63,29.9,127,167,0,1,1,Orleans County,Non-Hispanic Asian
+45,30.6,129,122,1,0,1,East Baton Rouge County,Non-Hispanic White
+71,36.8,132,136,0,0,1,East Baton Rouge County,Hispanic
+25,29.1,170,143,0,1,0,East Baton Rouge County,Hispanic
+78,39.5,87,122,0,1,1,Orleans County,Non-Hispanic Black
+40,39.0,150,152,1,0,0,St. Tammany County,Non-Hispanic White
+54,33.0,166,105,0,1,1,St. Tammany County,Non-Hispanic Asian
+72,23.6,197,101,1,0,1,St. Tammany County,Non-Hispanic Asian
+71,31.5,96,129,0,0,1,St. Tammany County,Non-Hispanic Black
+77,28.9,83,150,1,1,1,East Baton Rouge County,Non-Hispanic Black
+43,18.9,105,107,0,0,0,Jefferson County,Other / Multi-racial
+42,21.2,98,178,0,1,1,Jefferson County,Non-Hispanic White
+73,25.0,117,132,1,0,0,Orleans County,Non-Hispanic White
+64,37.8,172,179,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+47,34.1,83,160,1,1,0,Orleans County,Non-Hispanic Black
+65,36.1,116,155,0,0,1,St. Tammany County,Non-Hispanic Asian
+58,31.5,189,178,1,1,1,St. Tammany County,Non-Hispanic White
+18,18.1,80,171,0,0,0,St. Tammany County,Non-Hispanic Asian
+72,36.8,145,148,0,0,0,East Baton Rouge County,Non-Hispanic White
+47,33.8,184,146,1,1,0,East Baton Rouge County,Other / Multi-racial
+64,26.4,171,139,0,1,0,St. Tammany County,Non-Hispanic Asian
+76,38.7,169,172,0,1,0,Jefferson County,Non-Hispanic Black
+56,26.9,168,177,0,0,0,Orleans County,Non-Hispanic Asian
+19,26.8,107,175,1,1,0,Jefferson County,Non-Hispanic White
+51,29.4,93,108,0,0,1,East Baton Rouge County,Hispanic
+50,38.5,83,120,0,1,0,St. Tammany County,Hispanic
+42,20.5,95,133,0,1,1,Jefferson County,Non-Hispanic White
+76,28.2,147,165,1,1,1,St. Tammany County,Hispanic
+18,33.4,164,141,0,0,1,Orleans County,Hispanic
+40,39.4,89,169,0,0,0,East Baton Rouge County,Non-Hispanic White
+65,35.2,138,167,0,0,0,St. Tammany County,Hispanic
+39,19.3,153,153,0,0,1,Jefferson County,Other / Multi-racial
+61,33.8,85,132,1,0,0,Orleans County,Hispanic
+47,34.0,94,106,1,0,1,Orleans County,Other / Multi-racial
+34,39.9,121,106,0,1,0,St. Tammany County,Hispanic
+42,32.0,95,100,1,0,1,St. Tammany County,Non-Hispanic Black
+56,22.7,180,144,0,1,0,Orleans County,Non-Hispanic Asian
+51,24.2,102,108,0,1,1,St. Tammany County,Non-Hispanic Asian
+76,22.3,151,114,1,0,0,Orleans County,Non-Hispanic White
+41,31.7,171,164,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+33,23.6,77,130,1,1,1,Jefferson County,Non-Hispanic White
+25,32.6,148,117,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+72,26.9,193,135,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+36,33.1,146,173,0,0,1,Orleans County,Non-Hispanic White
+79,28.5,93,147,0,1,1,Orleans County,Non-Hispanic Black
+58,36.8,83,100,1,1,1,East Baton Rouge County,Non-Hispanic Black
+30,28.0,104,102,0,0,0,Jefferson County,Non-Hispanic Black
+63,31.4,138,126,0,0,1,Orleans County,Non-Hispanic Asian
+57,25.6,131,169,1,1,1,East Baton Rouge County,Other / Multi-racial
+66,19.5,176,173,1,0,1,St. Tammany County,Non-Hispanic White
+37,19.8,101,130,0,1,1,East Baton Rouge County,Non-Hispanic White
+46,39.7,182,134,0,0,1,East Baton Rouge County,Other / Multi-racial
+38,23.3,83,118,1,0,1,St. Tammany County,Hispanic
+40,38.5,184,160,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+67,28.2,160,111,1,0,0,Orleans County,Other / Multi-racial
+51,39.3,94,132,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+80,30.7,124,101,1,0,1,Jefferson County,Non-Hispanic Black
+79,23.0,175,159,0,1,0,St. Tammany County,Non-Hispanic Asian
+33,36.7,152,100,1,1,1,Orleans County,Hispanic
+49,24.5,165,163,0,0,0,St. Tammany County,Non-Hispanic White
+34,27.1,130,131,0,1,0,Jefferson County,Non-Hispanic White
+24,18.3,178,101,0,1,0,East Baton Rouge County,Non-Hispanic White
+80,20.2,197,163,1,0,0,Orleans County,Hispanic
+37,39.2,174,148,1,0,1,St. Tammany County,Non-Hispanic White
+40,23.6,140,131,0,0,1,St. Tammany County,Other / Multi-racial
+66,28.0,123,178,0,1,1,Jefferson County,Other / Multi-racial
+56,40.0,81,153,0,0,0,East Baton Rouge County,Other / Multi-racial
+70,22.6,179,109,0,0,1,East Baton Rouge County,Hispanic
+68,32.8,200,163,1,1,1,Orleans County,Other / Multi-racial
+63,22.4,93,121,0,1,1,Orleans County,Other / Multi-racial
+75,38.4,139,107,0,1,0,Orleans County,Other / Multi-racial
+28,37.3,198,170,1,0,0,East Baton Rouge County,Non-Hispanic Asian
+37,25.6,128,111,0,1,1,Orleans County,Non-Hispanic White
+65,21.2,130,138,0,0,1,East Baton Rouge County,Non-Hispanic Black
+33,36.2,163,170,1,0,1,St. Tammany County,Non-Hispanic White
+51,25.7,75,108,1,1,1,East Baton Rouge County,Hispanic
+57,26.0,132,121,0,1,0,Orleans County,Non-Hispanic Black
+18,21.3,112,132,0,0,0,St. Tammany County,Non-Hispanic Black
+27,28.7,92,110,1,0,1,Orleans County,Other / Multi-racial
+64,29.4,179,180,1,0,1,Jefferson County,Non-Hispanic Black
+68,38.0,178,161,1,1,1,Jefferson County,Hispanic
+20,36.7,199,149,0,0,1,Orleans County,Non-Hispanic Black
+68,32.5,117,119,1,1,0,East Baton Rouge County,Non-Hispanic Black
+37,31.8,76,116,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+66,19.7,134,168,1,1,0,Orleans County,Hispanic
+55,23.6,113,171,0,0,0,Jefferson County,Hispanic
+43,20.6,148,145,1,0,1,St. Tammany County,Other / Multi-racial
+64,26.4,119,129,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+37,36.0,131,153,0,1,0,St. Tammany County,Non-Hispanic White
+80,30.4,195,137,0,1,1,St. Tammany County,Non-Hispanic Asian
+76,30.5,94,162,0,0,1,St. Tammany County,Non-Hispanic White
+40,23.3,95,153,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+69,31.5,96,179,1,1,0,Jefferson County,Non-Hispanic Asian
+66,27.9,180,162,0,1,1,St. Tammany County,Non-Hispanic Black
+52,25.8,185,136,1,0,1,Jefferson County,Non-Hispanic Black
+37,32.0,105,177,1,0,0,Jefferson County,Hispanic
+18,37.1,90,125,1,1,0,East Baton Rouge County,Non-Hispanic Black
+34,23.7,113,107,1,1,1,St. Tammany County,Non-Hispanic White
+57,37.4,119,114,0,0,1,St. Tammany County,Non-Hispanic White
+67,21.4,139,163,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+59,29.5,177,102,1,0,0,Orleans County,Other / Multi-racial
+27,18.1,180,102,0,1,0,Jefferson County,Non-Hispanic White
+38,34.1,126,126,1,0,1,East Baton Rouge County,Non-Hispanic Asian
+30,27.6,149,137,0,1,0,East Baton Rouge County,Non-Hispanic White
+51,35.2,99,172,0,0,1,Jefferson County,Other / Multi-racial
+66,20.7,142,156,1,0,1,St. Tammany County,Non-Hispanic Black
+45,38.1,150,176,1,0,0,St. Tammany County,Hispanic
+74,32.9,101,156,0,0,0,St. Tammany County,Other / Multi-racial
+25,32.7,73,121,0,0,0,St. Tammany County,Other / Multi-racial
+24,32.1,133,135,1,1,0,Jefferson County,Non-Hispanic White
+62,36.3,195,100,1,1,0,St. Tammany County,Hispanic
+52,19.0,79,115,1,0,1,Orleans County,Other / Multi-racial
+36,38.3,97,118,0,0,0,St. Tammany County,Non-Hispanic Black
+28,33.7,189,108,0,0,0,Orleans County,Non-Hispanic White
+58,28.3,115,152,1,1,1,Orleans County,Hispanic
+69,26.8,156,150,0,0,1,Jefferson County,Other / Multi-racial
+40,26.7,190,127,1,1,1,St. Tammany County,Non-Hispanic White
+71,19.7,122,169,0,1,1,St. Tammany County,Non-Hispanic Black
+67,22.9,165,102,0,0,1,Orleans County,Non-Hispanic White
+70,38.1,134,166,0,0,0,East Baton Rouge County,Non-Hispanic White
+45,21.6,168,122,0,1,1,St. Tammany County,Non-Hispanic Asian
+65,21.9,169,147,1,0,1,Jefferson County,Other / Multi-racial
+60,30.1,191,144,0,0,0,East Baton Rouge County,Other / Multi-racial
+77,30.1,79,108,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+38,21.0,119,127,0,0,0,East Baton Rouge County,Non-Hispanic White
+59,24.2,163,158,1,1,0,St. Tammany County,Non-Hispanic White
+23,28.7,124,111,1,0,0,St. Tammany County,Non-Hispanic Asian
+21,31.7,133,101,1,0,0,Orleans County,Hispanic
+56,25.0,137,154,0,0,1,East Baton Rouge County,Non-Hispanic Black
+20,25.0,70,131,0,1,1,Jefferson County,Non-Hispanic Black
+38,28.9,82,109,0,0,1,Orleans County,Non-Hispanic Black
+66,36.1,145,163,1,1,0,East Baton Rouge County,Non-Hispanic White
+74,23.6,99,138,0,1,0,St. Tammany County,Hispanic
+44,29.5,102,167,1,1,0,Orleans County,Non-Hispanic White
+37,28.7,180,106,0,1,1,St. Tammany County,Non-Hispanic Asian
+30,25.2,149,108,0,0,1,Orleans County,Other / Multi-racial
+70,38.9,182,153,0,1,1,East Baton Rouge County,Hispanic
+73,28.7,158,103,0,0,0,St. Tammany County,Non-Hispanic Black
+53,29.2,116,130,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+34,37.5,189,148,1,1,0,St. Tammany County,Other / Multi-racial
+32,35.2,71,171,1,1,0,Orleans County,Other / Multi-racial
+57,22.9,193,126,1,0,0,East Baton Rouge County,Hispanic
+31,22.0,185,141,1,1,0,Orleans County,Non-Hispanic White
+54,34.7,167,128,0,0,0,Orleans County,Non-Hispanic Black
+52,26.5,141,121,0,1,1,East Baton Rouge County,Hispanic
+34,28.4,185,177,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+68,18.9,162,145,1,0,1,Jefferson County,Non-Hispanic White
+19,35.8,75,178,0,1,0,Jefferson County,Non-Hispanic Asian
+47,34.1,91,101,0,1,0,Orleans County,Other / Multi-racial
+35,36.1,142,158,0,0,1,East Baton Rouge County,Non-Hispanic Black
+47,18.9,150,158,0,1,1,Jefferson County,Non-Hispanic Black
+54,24.6,186,175,0,0,1,Jefferson County,Non-Hispanic White
+47,27.8,152,114,1,0,1,East Baton Rouge County,Non-Hispanic Black
+39,30.4,123,145,0,1,0,East Baton Rouge County,Hispanic
+66,20.1,181,152,1,0,1,Jefferson County,Non-Hispanic Asian
+20,31.4,148,103,0,1,1,East Baton Rouge County,Hispanic
+33,28.0,79,171,1,1,1,Orleans County,Hispanic
+30,33.7,92,132,1,1,1,Jefferson County,Non-Hispanic Black
+40,37.7,117,132,0,1,0,Orleans County,Other / Multi-racial
+51,24.4,154,143,1,1,1,Orleans County,Non-Hispanic Asian
+51,28.9,76,178,1,1,1,East Baton Rouge County,Non-Hispanic Black
+44,19.7,122,127,1,0,1,East Baton Rouge County,Non-Hispanic White
+34,27.3,143,163,1,0,1,East Baton Rouge County,Non-Hispanic Black
+27,24.5,125,139,0,0,0,St. Tammany County,Non-Hispanic White
+60,19.0,197,160,1,0,1,Orleans County,Non-Hispanic Black
+79,27.9,149,151,1,1,0,St. Tammany County,Non-Hispanic Black
+57,24.9,116,156,1,0,1,Orleans County,Hispanic
+46,36.5,76,138,1,1,1,St. Tammany County,Hispanic
+24,30.9,119,178,1,0,1,Orleans County,Non-Hispanic White
+42,21.6,172,138,0,1,1,Jefferson County,Non-Hispanic White
+32,25.8,173,159,0,0,1,Orleans County,Non-Hispanic Asian
+52,30.1,79,136,0,0,1,Orleans County,Non-Hispanic Black
+30,21.7,93,105,1,1,0,East Baton Rouge County,Hispanic
+46,21.6,191,164,1,1,1,East Baton Rouge County,Non-Hispanic Asian
+35,29.7,188,151,0,0,0,East Baton Rouge County,Other / Multi-racial
+68,30.0,186,175,0,0,0,Orleans County,Non-Hispanic White
+63,36.3,173,167,0,1,1,Jefferson County,Other / Multi-racial
+67,35.0,90,158,0,1,0,Jefferson County,Non-Hispanic White
+24,22.1,116,157,1,0,1,Orleans County,Non-Hispanic Asian
+19,26.3,83,158,1,1,0,Orleans County,Hispanic
+74,29.3,152,177,0,1,1,Orleans County,Non-Hispanic Black
+19,29.3,123,179,1,0,0,Orleans County,Non-Hispanic Asian
+47,18.4,180,141,0,1,0,Jefferson County,Hispanic
+59,37.7,123,171,0,0,1,Jefferson County,Non-Hispanic Black
+80,31.5,170,168,1,1,1,Orleans County,Non-Hispanic Asian
+24,31.4,103,134,0,1,1,East Baton Rouge County,Non-Hispanic White
+76,23.7,130,166,0,0,1,Jefferson County,Non-Hispanic White
+56,37.3,168,112,0,1,1,St. Tammany County,Hispanic
+22,32.9,120,142,1,1,1,Orleans County,Non-Hispanic White
+36,33.5,74,170,1,1,0,East Baton Rouge County,Other / Multi-racial
+23,32.3,167,149,0,0,1,East Baton Rouge County,Non-Hispanic Black
+58,35.9,96,127,1,1,1,St. Tammany County,Non-Hispanic White
+65,32.2,169,150,1,0,1,Orleans County,Other / Multi-racial
+62,28.0,184,156,0,0,0,Orleans County,Non-Hispanic White
+60,18.8,72,117,1,0,1,Jefferson County,Non-Hispanic Asian
+47,23.2,143,178,1,0,0,Orleans County,Hispanic
+66,18.9,182,160,1,0,1,Jefferson County,Non-Hispanic Asian
+53,33.8,87,155,0,0,0,Orleans County,Other / Multi-racial
+62,19.0,151,117,0,0,0,East Baton Rouge County,Hispanic
+39,37.2,100,144,1,0,0,Orleans County,Non-Hispanic Black
+52,36.0,104,103,1,1,0,St. Tammany County,Non-Hispanic Asian
+59,26.0,96,121,1,0,1,St. Tammany County,Non-Hispanic White
+65,28.5,158,161,0,1,1,Jefferson County,Non-Hispanic Black
+59,26.9,171,176,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+34,33.3,90,134,0,0,0,Jefferson County,Hispanic
+57,30.7,198,138,1,1,0,East Baton Rouge County,Hispanic
+48,22.7,94,126,0,1,1,St. Tammany County,Non-Hispanic White
+74,26.0,94,102,0,1,1,Orleans County,Non-Hispanic Black
+32,33.4,172,151,0,0,0,Jefferson County,Non-Hispanic Black
+66,39.4,71,135,0,1,0,Orleans County,Non-Hispanic Asian
+57,28.8,74,150,0,0,1,Jefferson County,Non-Hispanic Black
+55,33.6,184,137,1,1,1,Jefferson County,Non-Hispanic White
+48,39.6,189,111,0,0,0,Jefferson County,Non-Hispanic Asian
+73,37.2,141,110,1,0,0,Jefferson County,Non-Hispanic White
+37,18.6,188,172,1,1,0,Jefferson County,Non-Hispanic White
+60,18.5,118,129,0,1,1,Orleans County,Hispanic
+77,35.5,90,139,1,0,0,East Baton Rouge County,Hispanic
+57,31.8,127,123,1,0,1,Orleans County,Non-Hispanic Asian
+35,37.3,89,153,1,1,0,Orleans County,Other / Multi-racial
+78,20.7,90,149,0,1,1,Jefferson County,Hispanic
+63,19.0,146,100,1,0,0,East Baton Rouge County,Other / Multi-racial
+54,29.0,130,134,1,0,1,Orleans County,Non-Hispanic White
+72,26.3,72,157,0,0,0,St. Tammany County,Non-Hispanic White
+79,23.4,106,154,1,0,0,East Baton Rouge County,Other / Multi-racial
+37,20.2,74,175,1,1,0,Orleans County,Non-Hispanic Black
+68,33.0,191,104,0,1,0,East Baton Rouge County,Hispanic
+69,26.3,83,143,0,1,0,Jefferson County,Non-Hispanic Black
+62,23.4,200,165,0,1,1,Jefferson County,Non-Hispanic White
+21,27.3,195,179,0,1,1,St. Tammany County,Non-Hispanic Asian
+61,26.7,197,148,1,1,0,Jefferson County,Other / Multi-racial
+25,33.3,92,111,1,0,1,East Baton Rouge County,Non-Hispanic White
+65,35.4,195,177,0,0,1,East Baton Rouge County,Hispanic
+22,25.4,92,135,1,0,0,Orleans County,Non-Hispanic Asian
+53,26.6,72,123,1,1,1,St. Tammany County,Non-Hispanic White
+67,33.5,156,168,1,1,1,Jefferson County,Hispanic
+19,40.0,129,168,0,1,1,Orleans County,Non-Hispanic White
+75,32.2,155,102,1,1,0,East Baton Rouge County,Hispanic
+42,34.2,82,136,0,0,1,East Baton Rouge County,Non-Hispanic Black
+46,37.7,91,138,0,0,0,East Baton Rouge County,Hispanic
+63,19.0,170,170,1,1,0,Orleans County,Other / Multi-racial
+24,23.5,172,110,1,1,0,Jefferson County,Hispanic
+47,37.6,78,170,0,0,0,East Baton Rouge County,Hispanic
+70,37.0,184,164,0,1,1,Jefferson County,Hispanic
+53,20.1,177,128,0,1,1,Orleans County,Hispanic
+34,19.3,132,138,1,0,1,St. Tammany County,Non-Hispanic Black
+60,30.3,134,138,1,0,1,East Baton Rouge County,Hispanic
+75,27.6,75,125,0,0,1,Jefferson County,Non-Hispanic Black
+45,19.1,190,180,1,0,0,Jefferson County,Non-Hispanic White
+41,28.0,118,163,0,1,0,East Baton Rouge County,Non-Hispanic White
+80,23.4,139,113,0,0,0,East Baton Rouge County,Non-Hispanic White
+31,26.9,89,114,0,1,1,Jefferson County,Hispanic
+48,27.5,93,172,0,1,1,East Baton Rouge County,Non-Hispanic White
+55,27.6,157,110,0,1,1,St. Tammany County,Non-Hispanic Black
+61,30.8,139,123,1,1,0,Orleans County,Other / Multi-racial
+76,18.7,122,150,0,0,0,St. Tammany County,Other / Multi-racial
+80,26.0,135,167,0,0,1,Orleans County,Other / Multi-racial
+78,39.5,163,100,0,1,0,East Baton Rouge County,Non-Hispanic White
+41,24.1,172,112,0,1,0,St. Tammany County,Non-Hispanic Black
+29,30.4,117,139,1,1,1,East Baton Rouge County,Non-Hispanic White
+63,24.2,87,178,1,1,1,East Baton Rouge County,Hispanic
+69,37.2,161,156,0,1,1,East Baton Rouge County,Other / Multi-racial
+24,19.9,178,100,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+42,30.0,155,121,1,1,1,Jefferson County,Non-Hispanic White
+25,18.5,158,156,0,0,0,St. Tammany County,Non-Hispanic Asian
+63,25.7,98,165,1,0,0,Orleans County,Non-Hispanic Black
+58,40.0,131,174,1,1,1,Jefferson County,Non-Hispanic Asian
+38,39.5,84,140,1,1,1,St. Tammany County,Hispanic
+72,24.4,106,116,1,1,1,East Baton Rouge County,Hispanic
+23,21.0,114,105,1,1,0,St. Tammany County,Hispanic
+63,19.4,175,117,1,0,0,St. Tammany County,Non-Hispanic White
+72,34.7,180,134,1,1,0,Jefferson County,Other / Multi-racial
+20,34.4,147,114,1,1,0,Orleans County,Other / Multi-racial
+80,18.2,127,169,1,0,0,Orleans County,Hispanic
+31,38.9,167,167,0,1,1,Jefferson County,Non-Hispanic Asian
+33,19.5,168,162,0,0,1,Orleans County,Non-Hispanic Black
+47,21.7,182,126,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+66,35.8,178,158,0,1,0,East Baton Rouge County,Hispanic
+24,27.3,117,177,1,0,0,Jefferson County,Non-Hispanic Black
+29,20.4,167,146,0,0,1,St. Tammany County,Non-Hispanic Asian
+72,39.4,138,115,1,1,0,East Baton Rouge County,Non-Hispanic Asian
+64,38.7,115,107,1,0,1,St. Tammany County,Non-Hispanic Asian
+65,37.4,168,100,0,0,0,Orleans County,Hispanic
+33,19.6,83,134,0,1,0,St. Tammany County,Non-Hispanic White
+44,19.1,74,132,0,0,1,St. Tammany County,Non-Hispanic Black
+64,35.4,184,103,1,0,0,Orleans County,Hispanic
+37,18.8,153,136,0,0,1,Orleans County,Hispanic
+24,29.1,179,179,1,1,1,Jefferson County,Non-Hispanic Black
+26,23.3,152,147,0,0,0,Jefferson County,Other / Multi-racial
+75,18.8,115,156,0,1,1,Orleans County,Non-Hispanic White
+60,25.6,75,176,0,1,1,St. Tammany County,Non-Hispanic Black
+41,28.9,135,148,0,1,1,St. Tammany County,Non-Hispanic White
+23,27.6,92,174,1,0,1,St. Tammany County,Non-Hispanic Black
+42,27.7,185,117,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+18,24.8,140,166,0,1,1,Jefferson County,Hispanic
+40,33.9,192,145,0,1,1,Jefferson County,Non-Hispanic Black
+32,30.8,115,101,1,1,1,Orleans County,Hispanic
+50,27.6,189,108,1,0,0,East Baton Rouge County,Non-Hispanic Black
+61,36.9,115,158,0,1,1,Orleans County,Non-Hispanic White
+54,18.2,98,150,0,1,1,Orleans County,Non-Hispanic White
+78,36.0,192,145,0,0,0,Orleans County,Non-Hispanic Asian
+55,30.6,97,174,1,0,1,St. Tammany County,Non-Hispanic White
+21,30.5,174,129,1,1,1,Orleans County,Other / Multi-racial
+20,22.5,117,165,1,0,1,Jefferson County,Other / Multi-racial
+76,26.1,89,110,0,1,1,East Baton Rouge County,Hispanic
+36,19.6,164,106,1,1,0,Orleans County,Non-Hispanic Asian
+25,22.2,134,151,1,1,0,St. Tammany County,Non-Hispanic Black
+63,27.9,109,165,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+30,27.8,173,126,1,0,0,Orleans County,Hispanic
+30,34.7,166,100,0,0,1,East Baton Rouge County,Hispanic
+77,22.3,167,149,0,0,0,Orleans County,Non-Hispanic Asian
+22,27.9,196,104,0,0,1,East Baton Rouge County,Non-Hispanic White
+63,36.8,93,165,1,1,1,Jefferson County,Non-Hispanic White
+77,19.3,187,166,0,0,1,Jefferson County,Non-Hispanic White
+19,35.9,180,146,0,1,1,East Baton Rouge County,Non-Hispanic Asian
+27,26.2,107,147,1,0,1,Jefferson County,Other / Multi-racial
+28,29.9,197,144,0,1,1,St. Tammany County,Non-Hispanic Asian
+66,35.6,97,129,1,1,0,St. Tammany County,Hispanic
+54,26.8,174,175,0,1,0,East Baton Rouge County,Non-Hispanic Black
+20,37.9,128,131,0,0,1,St. Tammany County,Non-Hispanic White
+67,20.1,174,148,1,0,1,Jefferson County,Hispanic
+18,23.4,168,171,1,1,0,Jefferson County,Non-Hispanic White
+51,18.4,186,135,0,1,1,St. Tammany County,Hispanic
+43,37.4,171,129,0,1,0,Jefferson County,Non-Hispanic Black
+54,32.8,90,156,0,0,0,East Baton Rouge County,Non-Hispanic White
+38,21.0,70,114,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+77,30.5,100,118,0,0,1,Jefferson County,Non-Hispanic White
+77,38.2,114,156,0,1,1,Orleans County,Non-Hispanic Black
+43,34.6,191,169,0,1,0,Orleans County,Non-Hispanic Asian
+80,25.4,133,125,0,0,1,Jefferson County,Non-Hispanic Asian
+40,32.4,75,162,1,0,0,Jefferson County,Non-Hispanic Asian
+41,25.6,154,137,0,1,0,St. Tammany County,Non-Hispanic Black
+23,21.9,88,111,1,0,0,East Baton Rouge County,Hispanic
+64,39.9,88,100,0,1,0,Orleans County,Non-Hispanic White
+35,29.8,149,104,1,1,1,St. Tammany County,Non-Hispanic Black
+67,30.8,132,179,0,0,1,St. Tammany County,Non-Hispanic Asian
+21,30.8,158,118,0,0,0,Jefferson County,Non-Hispanic Asian
+72,18.8,130,123,1,1,0,St. Tammany County,Non-Hispanic White
+76,38.6,76,140,1,1,0,Jefferson County,Non-Hispanic White
+18,21.2,156,121,0,1,0,Orleans County,Other / Multi-racial
+38,33.3,157,146,1,1,0,Orleans County,Non-Hispanic Black
+50,19.0,180,101,1,1,0,Orleans County,Non-Hispanic White
+52,20.0,75,153,1,0,1,Orleans County,Hispanic
+40,31.8,78,180,0,0,0,St. Tammany County,Other / Multi-racial
+39,25.4,132,122,0,0,1,Jefferson County,Non-Hispanic Asian
+56,38.0,155,117,1,1,0,Orleans County,Non-Hispanic White
+45,39.2,144,176,0,0,1,Jefferson County,Non-Hispanic Asian
+56,24.9,192,161,1,0,0,Jefferson County,Other / Multi-racial
+55,25.2,89,123,0,1,0,Jefferson County,Non-Hispanic Asian
+56,29.4,187,153,1,1,1,Orleans County,Non-Hispanic White
+40,19.5,138,120,0,0,0,East Baton Rouge County,Non-Hispanic White
+73,39.3,71,100,0,1,0,East Baton Rouge County,Non-Hispanic Asian
+53,28.5,132,155,1,1,0,Jefferson County,Non-Hispanic White
+29,30.0,112,123,1,1,1,Orleans County,Non-Hispanic Asian
+65,37.7,94,156,0,1,1,Orleans County,Non-Hispanic Black
+41,24.5,80,162,1,0,1,Orleans County,Non-Hispanic Black
+31,18.5,199,168,1,0,1,St. Tammany County,Non-Hispanic Asian
+21,20.0,72,117,1,1,0,Jefferson County,Non-Hispanic White
+70,33.0,132,142,0,0,0,Jefferson County,Non-Hispanic Asian
+56,24.6,166,107,1,1,0,St. Tammany County,Non-Hispanic White
+44,37.4,197,176,0,1,0,East Baton Rouge County,Other / Multi-racial
+74,26.3,151,132,1,0,1,East Baton Rouge County,Non-Hispanic Black
+19,35.1,146,144,1,1,0,St. Tammany County,Non-Hispanic Black
+56,39.2,180,141,1,1,0,Orleans County,Non-Hispanic Black
