@@ -10,7 +10,7 @@ dbListTables(con)
 
 individuals <- read_csv("/Users/julia/chronic_disease_project/chronic-disease-project-git/data/clean/diabetes_individual_clean.csv")
 county_prevalence <- read_delim("/Users/julia/chronic_disease_project/chronic-disease-project-git/data/raw/chronic_county.csv")
-race_lookup <- read_csv("/Users/julia/chronic_disease_project/chronic-disease-project-git/data/raw/diabetes_individual_race.csv")
+race_lookup <- read_csv("/Users/julia/chronic_disease_project/chronic-disease-project-git/data/raw/diabetes_individual_with_race.csv")
 
 dbWriteTable(
   conn = con,
