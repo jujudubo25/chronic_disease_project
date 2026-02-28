@@ -26,16 +26,7 @@ dbWriteTable(
   overwrite=TRUE
 )
 
-race_lookup <- tibble(
-  Race1=c("White", "Black", "Hispanic", "Asian", "Other"),
-  RaceGroup=c(
-    "Non-Hispanic White",
-    "Non-Hispanic Black",
-    "Hispanic",
-    "Asian",
-    "Other/Multiracial"
-  )
-)
+
 dbWriteTable(
   conn = con,
   name = "race_lookup",
