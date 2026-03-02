@@ -1,0 +1,10 @@
+Diabetes Prevalence: 0.6000 (n=10)
+htn_status,n,mean_bmi
+0,3,26.00
+1,7,31.23
+year,county,diabetes_prev
+2020,Orleans County,0.14
+2020,East Baton Rouge County,0.122
+2020,Jefferson County,0.11
+2020,St. Tammany County,0.09
+High Burden Counties- (if blank, nothing to report)
