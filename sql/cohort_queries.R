@@ -24,7 +24,7 @@ dbExecute(con, "
   SELECT
     AGE,
     BMI
-  FROM race_lookup
+  FROM individuals_clinic
   WHERE age >= 45 AND age <= 64
     AND BMI >= 30
     AND Hypertension = 1;
@@ -41,7 +41,7 @@ Race1,
 COUNT(*) AS n,
 SUM(CASE WHEN Diabetes = 1 THEN 1 ELSE 0 END) AS diabetes_count,
 AVG(CASE WHEN Diabetes = 1 THEN 1.0 ELSE 0 END) AS diabetes_prop
-FROM race_lookup
+FROM individuals_clinic
 GROUP BY Race1;
 "
 
@@ -61,7 +61,7 @@ COUNT(*) AS n,
 SUM(CASE WHEN Hypertension = 1 THEN 1 ELSE 0 END) AS htn_count,
     
 AVG(CASE WHEN Hypertension = 1 THEN 1.0 ELSE 0 END) AS htn_prop
-FROM race_lookup
+FROM individuals_clinic
 GROUP BY age_band
 ORDER BY 
 CASE age_band
@@ -83,7 +83,7 @@ SELECT
 SUM(CASE WHEN BMI = '' THEN 1 ELSE 0 END) AS BMI_missing,
 SUM(CASE WHEN BloodPressure = '' THEN 1 ELSE 0 END) AS BP_missing,
 SUM(CASE WHEN Smoking = '' THEN 1 ELSE 0 END) AS smoke_missing
-FROM race_lookup;
+FROM individuals_clinic;
 "
 dbGetQuery(con, q_missing_value)
 
