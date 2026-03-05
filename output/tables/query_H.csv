@@ -1,6 +1,9 @@
 "clinic_id","BMI4","n"
-1,"Normal",1
-1,"Obese",2
-1,"Overweight",3
-2,"Obese",3
-2,"Overweight",1
+1,"Normal",144
+1,"Obese",253
+1,"Overweight",100
+1,"Underweight",9
+2,"Normal",149
+2,"Obese",210
+2,"Overweight",122
+2,"Underweight",13

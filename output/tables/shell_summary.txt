@@ -1,5 +1,6 @@
-Diabetes Prevalence: 0.6000 (n=10)
+Diabetes Prevalence: 0.5000 (n=12)
 htn_status,n,mean_bmi
+,2,0.00
 0,3,26.00
 1,7,31.23
 year,county,diabetes_prev

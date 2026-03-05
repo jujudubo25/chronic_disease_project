@@ -1,6 +1,6 @@
-FILE="/Users/isabelle/chronic_disease_project/data/clean/diabetes_individual_clean.csv"
-FILE1="/Users/isabelle/Project/data/raw/chronic_county.csv"
-OUT="/Users/isabelle/chronic_disease_project/output/tables/shell_summary.txt"
+FILE="/Users/julia/chronic_disease_project/data/clean/diabetes_individual_clean.csv"
+FILE1="/Users/julia/chronic_disease_project/data/raw/chronic_county.csv"
+OUT="/Users/julia/chronic_disease_project/output/tables/shell_summary.txt"
 
 
 #Isabelle Smith and Julia Dubovoy

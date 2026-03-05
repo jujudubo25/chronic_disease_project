@@ -1,0 +1,5 @@
+[2026-03-04 20:05:39] Step 1: Running individual data cleaning script
+[2026-03-04 20:05:39] Step 2: Running generate summary script
+[2026-03-04 20:05:39] Step 3: Running R database setup
+[2026-03-04 20:05:40] Step 4: Running all queries
+[2026-03-04 20:05:40] Step 5: Key Findings Summary

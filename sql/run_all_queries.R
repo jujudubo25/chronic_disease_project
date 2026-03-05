@@ -2,97 +2,14 @@ library(DBI)
 library(RSQLite) 
 library(dplyr) 
 library(readr)
+
 con <- dbConnect(
-  drv=RSQLite::SQLite(), 
-  dbname = ("/Users/isabelle/chronic_disease_project/chronic_disease_surveillance.sqlite")
-)
-dbListTables(con)
-
-individuals <- read_csv("/Users/isabelle/chronic_disease_project/data/clean/diabetes_individual_clean.csv")
-county_prevalence <- read_delim("/Users/isabelle/chronic_disease_project/data/raw/chronic_county.csv")
-race_lookup <- read_csv("/Users/isabelle/chronic_disease_project/data/raw/diabetes_individual_with_race.csv")
-
-dbWriteTable(
-  conn = con,
-  name = "individuals",
-  value = individuals,
-  overwrite=TRUE
+  SQLite(),
+  "chronic_disease_surveillance.sqlite"
 )
 
-dbWriteTable(
-  conn = con,
-  name = "county_prevalence",
-  value = county_prevalence,
-  overwrite=TRUE
-View(individuals_clinic)
 
-
-dbWriteTable(
-  conn = con,
-  name = "race_lookup",
-  value = race_lookup,
-  overwrite = TRUE
-  
-)
-dbListTables(con)
-
-set.seed(123)
-individuals_clinic <- individuals %>%
-  mutate(
-    clinic_id = sample(
-      x = c(1,2),
-      size=n(),
-      replace = TRUE
-    )
-  )
-
-dbWriteTable(
-  conn = con,
-  name = "individuals_clinic",
-  value = individuals_clinic,
-  overWrite = TRUE
-)
-
-q_clinic_create <- "
-CREATE TABLE IF NOT EXISTS clinic_summary (
-  clinic_id INTEGER PRIMARY KEY,
-  clinic_name TEXT,
-  county TEXT,
-  total_patients INTEGER,
-  diabetes_patients INTEGER,
-  hypertension_patients INTEGER
-);
-"
-dbExecute(con, q_clinic_create)
-
-
-
-q_clinic_insert <- "
-INSERT INTO clinic_summary(
-clinic_id, clinic_name, county, total_patients, diabetes_patients, hypertension_patients
-)
-
-VALUES
-(1, 'Downtown Health Center', 'Orleans', 1000, 150, 300),
-(2, 'River Parish Clinic', 'Jefferson', 800, 120, 300)
-ON CONFLICT(clinic_id) DO NOTHING;
-"
-dbExecute(con, q_clinic_insert)
-dbGetQuery(con, "SELECT * FROM clinic_summary;")
-
-dbListTables(con)
-dbListFields(con, "clinic_summary")
-dbListFields(con, "county_prevalence")
-dbListFields(con, "individuals")
-dbListFields(con, "individuals_clinic")
-
-con <- dbConnect(RSQLite::SQLite(), ":memory:")
-
-dbWriteTable(con, "individuals_clinic", individuals_clinic)
-
-dbWriteTable(con, "race_lookup", race_lookup, overwrite = TRUE)
-
-
+#Julia Dubovoy and Isabelle Smith
 #Query A - Comorbid Cohort
 q1 <- "
 SELECT
@@ -173,7 +90,7 @@ RESq4 <- dbGetQuery(con, q_age_crosstab)
 RESq4
 
 
-#Query E - Missing Value Audit
+#Query E - Missing Value Audits
 #no systolic, diastolic, or education variable
 #USED 0, ".", AND AN EMPTY STRING AS POTENTIAL MISSING
 #NO MISSING NUMBERS FOUND
@@ -313,3 +230,44 @@ RESQJ
 #QUERY K
 # DO NOT HAVE INCOME DATA AVAILABLE IN ANY .CSV FILE
 
+#export all as CSVs
+results <- list(
+  query_A = RESq1,
+  query_B = RESq2,
+  query_C = RESq3,
+  query_D = RESq4,
+  query_E = RESq5,
+  query_F = RESQF,
+  query_G = RESQG,
+  query_H = RESQH,
+  query_I = RESQI,
+  query_J = RESQJ
+)
+
+for (name in names(results)) {
+  write.csv(results[[name]],
+            paste0("output/tables/", name, ".csv"),
+            row.names = FALSE)
+}
+
+
+# Export Query Results to a .csv file > output/tables
+
+write.csv(RESq1, "/Users/julia/chronic_disease_project/output/tables/query_A.csv", row.names = FALSE)
+
+write.csv(RESq2, "/Users/julia/chronic_disease_project/output/tables/query_B.csv", row.names = FALSE)
+
+write.csv(RESq3, "/Users/julia/chronic_disease_project/output/tables/query_C.csv", row.names = FALSE)
+
+write.csv(RESq4, "/Users/julia/chronic_disease_project/output/tables/query_D.csv", row.names = FALSE)
+
+write.csv(RESq5, "/Users/julia/chronic_disease_project/output/tables/query_E.csv", row.names = FALSE)
+
+write.csv(RESQF, "/Users/julia/chronic_disease_project/output/tables/query_F.csv", row.names = FALSE)
+
+write.csv(RESQG, "/Users/julia/chronic_disease_project/output/tables/query_G.csv", row.names = FALSE)
+write.csv(RESQH, "/Users/julia/chronic_disease_project/output/tables/query_H.csv", row.names = FALSE)
+
+write.csv(RESQI, "/Users/julia/chronic_disease_project/output/tables/query_I.csv", row.names = FALSE)
+
+write.csv(RESQJ, "/Users/julia/chronic_disease_project/output/tables/query_J.csv", row.names = FALSE)

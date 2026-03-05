@@ -2,9 +2,9 @@
 # Authors: Julia Dubovoy, Isabelle Smith
 # Purpise: Clean individual-level diabetes data
 # Date: 2/24/2026
-INPUT="/Users/julia/chronic_disease_project/chronic-disease-project-git/data/raw/diabetes_individual.csv"
-OUTPUT="/Users/julia/chronic_disease_project/chronic-disease-project-git/data/clean/diabetes_individual_clean.csv"
-LOG="/Users/julia/chronic_disease_project/chronic-disease-project-git/logs/cleaning_log.txt"
+INPUT="/Users/julia/chronic_disease_project/data/raw/diabetes_individual.csv"
+OUTPUT="/Users/julia/chronic_disease_project/data/clean/diabetes_individual_clean.csv"
+LOG="/Users/julia/chronic_disease_project/logs/cleaning_log.txt"
  if [ ! -f "$INPUT" ]; then
       echo "ERROR: $INPUT not found" | tee -a "$LOG"
       exit 1
