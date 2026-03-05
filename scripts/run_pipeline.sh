@@ -1,5 +1,5 @@
 #!/bin/bash
-> "$OUT"
+#Authors: Julia Dubovoy and Isabelle Smith
 LOG="/Users/julia/chronic_disease_project/logs/pipeline_log.txt"
 
 

@@ -1,3 +1,4 @@
+#Authors: Julia Dubovoy and Isabelle Smith
 #Query A - Comorbid Cohort
 q1 <- "
 SELECT
