@@ -1,0 +1,21 @@
+Isabelle Smith and Julia Dubovoy
+SCENARIO 1: THE BIASED RISK SCORE
+
+
+These disparities are an ethical problem (compared to being just a technical one) because they are using this data to predict diabetes risk amongst different race/ethnicity groups. We see a sensitivity of 82%, demonstrating that this test of risk will correctly identify 82% of those who have diabetes, while 18% of those with diabetes will be missed (having a false negative result). However, we are seeing an even higher sensitivity for the White individuals (89%), a lower sensitivity for Hispanic individuals (71%), and an even lower sensitivity for Black individuals (68%). These results demonstrate that Hispanic and Black individuals will be less likely to be flagged for high risk of diabetes, potentially leaving them out of life-saving preventative care and screening. If the health department is deploying resources, they might prioritize the group (White) with the biased high sensitivity.
+A benefit of race-aware thresholds (in this example, lowering the threshold for minority groups) could be a newly increased sensitivity for these groups, and a higher likelihood of catching true diabetes cases (thus leading to enhanced access to preventative care). Earlier prevention/intervention would improve health and life satisfaction overall and increase equity amongst the various racial/ethnic groups.
+However, potential problems are that lowering the threshold based on race will make the procedures less standardized (i.e., having the Black individuals with a lower cutoff, and the White individuals with a higher cutoff). This could result in a larger number of false positives for this group, subjecting them to unnecessary treatment and healthcare costs.
+One alternative approach to addressing this disparity, aside from adjusting the threshold, could be to research why the sensitivity is lower amongst minority groups, and increase the equity of testing. Essentially, the bias needs to be removed initially. The Health Department would need to reevaluate its testing system to ensure cases of diabetes in race/ethnic subgroups are not being missed, and have more representation of data for each subgroup, vs an overarching sample from White individuals.
+
+SCENARIO 2: SURVEILLANCE VS. PRIVACY
+This risks violating the ethical principle of respect for persons, as it would be difficult to acquire informed consent at the neighborhood level. Linking personal EHR records with this information, and allowing health workers to show up to high-risk addresses based on data people may not have consented to sharing is a big problem. 
+This would fulfill the principle of beneficence, as the intent is to help people and identify early intervention methods to try and slow the development of chronic diseases.
+This risks violating the justice principle, as different neighborhoods may be disproportionately affected. Say a neighborhood is flagged as higher risk, and health workers go screen individuals in that neighborhood. If there is no link to other care, medication, etc, it would lead to further perpetuation of systemic inequities. 
+This greatly threatened privacy of individuals at all levels. First off, with the EHR data, and secondly, in a smaller city like New Orleans, geospatial data tied to health outcomes could threaten privacy. 
+
+First off, it could focus more on determinants and risk between specific neighborhoods as opposed to EHR data. This could include resources, such as parks, access to groceries, etc that exist in each neighborhood, and focus on larger neighborhoods as opposed to the block level.
+
+Secondly, instead of focusing on neighborhoods as a dashboard, this could be used to give people their individual risk, instead of neighborhood-level risk. Individuals could input information about themselves, their neighborhood, and their behaviors, and they could have a choice at whether or not they want a health worker to come. 
+
+This dashboard was developed in support of equitable public health by identifying communities disproportionately affected by the burden of chronic illness. It uses aggregated, de-identified data, and allows individuals to revoke consent to the use of their data. All decisions were informed by stakeholder input to ensure the dashboard is helping the communities that need it the most.
+

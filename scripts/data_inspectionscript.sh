@@ -2,8 +2,8 @@
 
 #Isabelle Smith and Julia Dubovoy
 
-FILE="/Users/isabelle/Project/data/raw/diabetes_individual.csv"
-FILE1="/Users/isabelle/Project/data/raw/chronic_county.csv"
+FILE="/Users/julia/chronic_disease_project/data/raw/diabetes_individual.csv"
+FILE1="/Users/julia/chronic_disease_project/data/raw/chronic_county.csv"
 
 # Preview headers and first rows of each file
 
@@ -35,3 +35,5 @@ awk -F, 'NR>1 {sum+=$3; n++} END {printf "Mean: %.4f\n", sum/n}' "$FILE"
 # Count unique values in the Diabetes column of the individual file
 
 cut -d',' -f7 "$FILE" | tail -n +2 | sort | uniq -c
+
+

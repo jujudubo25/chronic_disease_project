@@ -1,36 +1,24 @@
-Data Inspection
---- chronic_county.csv--- (preview headers/first rows) ----
+isabelle@Isabelles-MacBook-Pro-3 tables % ./data_inspection2.txt 
 year,county,diabetes_prev,htn_prev,population
 2018,Orleans County,0.12,0.28,390000
 2019,Orleans County,0.13,0.29,392000
 2020,Orleans County,0.14,0.3,394000
 2018,Jefferson County,0.09,0.25,435000
---- diabetes_individual.csv--- (preview headers/first rows) ----
-﻿Age,BMI,Glucose,BloodPressure,Smoking,Hypertension,Diabetes
+Age,BMI,Glucose,BloodPressure,Smoking,Hypertension,Diabetes
 35,27.5,95,120,0,0,0
 52,31.2,140,145,1,1,1
 61,29,130,138,0,1,1
 44,33.5,125,142,1,1,0
-total rows in each file
-      12 /Users/isabelle/Project/data/raw/chronic_county.csv
-      10 /Users/isabelle/Project/data/raw/diabetes_individual.csv
-      22 total
-unique counties for chronic_county.csv
+      12 /Users/isabelle/Project/data/raw/chronic_county.csv
+      10 /Users/isabelle/Project/data/raw/diabetes_individual.csv
 East Baton Rouge County
 Jefferson County
 Orleans County
 St. Tammany County
-Extraction of Orleans Parish Records
 2018,Orleans County,0.12,0.28,390000
 2019,Orleans County,0.13,0.29,392000
 2020,Orleans County,0.14,0.3,394000
-Mean Diabetes Prevalence across all county-years
-Mean: 0.1083
-Count Unique Values in Diabetes Column
-   4 0
-   1 1
-   5 1
-Count Unique Values in Diabetes Column
-   4 0
-   1 1
-   5 1
+Mean: 123.5000
+   4 0
+   1 1
+   5 1
